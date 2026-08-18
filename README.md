@@ -1,4 +1,4 @@
-# Autonomous Water Surface Cleaning Boat
+# Remote-Controlled Water Surface Cleaning Boat
 
 An ESP32-CAM surface-cleaning boat prototype with browser-based live video and remote differential propulsion control.
 
