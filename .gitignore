@@ -1,0 +1,25 @@
+# Operating-system and editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Arduino / PlatformIO build products
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+*.map
+*.log
+
+# Local credentials and environment files
+firmware/boat_controller/secrets.h
+.env
+.env.*
+!.env.example
+
+# Local-only source media and presentation archive
+/presentation/
+/videos/
